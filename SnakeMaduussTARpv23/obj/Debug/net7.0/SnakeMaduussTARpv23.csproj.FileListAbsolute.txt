@@ -1,0 +1,6 @@
+C:\Users\ripmy\Source\Repos\SnakeGame-1\SnakeMaduussTARpv23\obj\Debug\net7.0\SnakeMaduussTARpv23.csproj.AssemblyReference.cache
+C:\Users\ripmy\Source\Repos\SnakeGame-1\SnakeMaduussTARpv23\obj\Debug\net7.0\SnakeMaduussTARpv23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ripmy\Source\Repos\SnakeGame-1\SnakeMaduussTARpv23\obj\Debug\net7.0\SnakeMaduussTARpv23.AssemblyInfoInputs.cache
+C:\Users\ripmy\Source\Repos\SnakeGame-1\SnakeMaduussTARpv23\obj\Debug\net7.0\SnakeMaduussTARpv23.AssemblyInfo.cs
+C:\Users\ripmy\Source\Repos\SnakeGame-1\SnakeMaduussTARpv23\obj\Debug\net7.0\SnakeMaduussTARpv23.csproj.CoreCompileInputs.cache
+C:\Users\ripmy\Source\Repos\SnakeGame-1\SnakeMaduussTARpv23\obj\Debug\net7.0\SnakeMaduussTARpv23.sourcelink.json
